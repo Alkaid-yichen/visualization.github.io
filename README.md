@@ -1,2 +1,2 @@
-# visualization.github.io
-Ship trajectory data visualization system
+# CNN轨迹分析
+实现利用机器学习算法对船舶游荡轨迹进行分析识别
